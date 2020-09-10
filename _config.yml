@@ -1,16 +1,16 @@
 # Site settings
-title: lin1874656762
+title: Chef
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+  这里时专注于技术，知识，学习的文章聚集地！
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https:// lin1874656762.github.io" # the base hostname & protocol for your site
+url: "https://cheff1204.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname:  lin1874656762
+  fullname: Chef
   github: github
   linkedin: 
-  email: 1874656762@qq.com
+  email: 1164505872@qq.com
 
 
 # Syntax highlighting
