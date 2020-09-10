@@ -1,26 +1,26 @@
 ---
 layout: page
-title: Résumé
-subtitle: An awesome person
+title: 关于Chef
+subtitle: 我是一个保安
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> 下载PDF</strong></a> </span>
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+### 专业技能
+``` 我是一个酒精过敏的帅哥，我的酒品爆差，但我爆爱喝，你叫我喝酒，我就会死，让我疯狂喝酒，你就会死。精通移动设备表层保养与维护，精通人体末梢组织切割技术，超文本标记使用于创建，MySQL增删改查，明日方舟刀客塔十级博士 ```  
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
+### 项目经验
+**华为实战项目** - 底层框架开发 - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
+**大尚鞋业** - js页面框架搭建 - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
+**小米商城** - 页面交互及维护 - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
 
-### EDUCATION
+### 教育背景
 
 Institute <span style="float: right; ">Duration</span>  
 **Course**  

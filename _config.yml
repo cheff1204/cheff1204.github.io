@@ -1,7 +1,7 @@
 # Site settings
 title: Chef
 description: >
-  这里时专注于技术，知识，学习的文章聚集地！
+  这里是专注于技术，知识，学习的文章聚集地！
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://cheff1204.github.io" # the base hostname & protocol for your site
