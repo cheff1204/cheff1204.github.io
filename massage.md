@@ -5,5 +5,5 @@ tittle: 留言板
 ---
 
 <div>
-<P>2020.9.11</p>
+<span class="post-teaser__title">{{ post.title }}</span>
 </div>
