@@ -23,11 +23,11 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 ### 教育背景
 
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
+**大学**  
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
  
 Institute <span style="float: right; ">Duration</span>  
-**Course**  
+**兄弟连教育**  
 Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
 
 Institute <span style="float: right; ">Duration</span>  

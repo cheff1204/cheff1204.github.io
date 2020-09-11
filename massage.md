@@ -1,0 +1,10 @@
+---
+layout: self
+
+---
+
+{% include page/title.html %}
+
+{{ content }}
+
+{% include page/about.html %}
