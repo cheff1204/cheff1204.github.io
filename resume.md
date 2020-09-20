@@ -8,7 +8,7 @@ subtitle: 我是一个保安
 <br>
 
 ### 专业技能
-``` 我是一个酒精过敏的帅哥，我的酒品爆差，但我爆爱喝，你叫我喝酒，我就会死，让我疯狂喝酒，你就会死。精通移动设备表层保养与维护，精通人体末梢组织切割技术，超文本标记使用于创建，MySQL增删改查，明日方舟刀客塔十级博士 ```  
+``` 精通移动设备表层保养与维护，精通人体末梢组织切割技术，超文本标记使用于创建，MySQL增删改查，明日方舟刀客塔十级博士 ```  
 
 ### 项目经验
 **华为实战项目** - 底层框架开发 - 华为集团总部 <span style="float: right; ">2011.2.3</span>  
@@ -32,7 +32,7 @@ Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliq
 
 Institute <span style="float: right; ">Duration</span>  
 **Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+ 
 
 ### 人生经历
 
@@ -45,9 +45,6 @@ Title - **Comapany** <span style="float: right; ">Duration</span>
 _Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
 Technologies used  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
 
 
 ### RECOGNITION & INTERESTS
