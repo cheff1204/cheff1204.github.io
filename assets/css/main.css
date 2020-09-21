@@ -50,7 +50,8 @@
 
 /* =Header *//*************************************************************/
   .header {
-    overflow: hidden; }
+    overflow: hidden;
+  background-image: url("../img/1.png"); }
 
   .navigation {
     float: left; }
