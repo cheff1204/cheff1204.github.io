@@ -50,7 +50,7 @@
 
 /* =Header *//*************************************************************/
   .header {
-    overflow: hidden;
+   /* overflow: hidden;*/
    background-image: url("../img/1.png");
   background-size: 900px 98px; }
 
