@@ -12,23 +12,23 @@ subtitle: 我是一个保安
 
 ### 项目经验
 **华为实战项目** - 底层框架开发 - 华为集团总部 <span style="float: right; ">2011.2.3</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+  
 
 **大尚鞋业** - js页面框架搭建 - 大尚鞋团有限公司 <span style="float: right; ">2014.3.6</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+ 
 
 **小米商城** - 页面交互及维护 - 小米通讯技术有限公司 <span style="float: right; ">2099.12.4</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+
 
 ### 教育背景
 
 Institute <span style="float: right; ">Duration</span>  
 **大学**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+ 
  
 Institute <span style="float: right; ">Duration</span>  
 **兄弟连教育**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+
 
 Institute <span style="float: right; ">Duration</span>  
 **Course**  
