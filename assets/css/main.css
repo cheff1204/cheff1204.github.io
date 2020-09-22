@@ -51,7 +51,8 @@
 /* =Header *//*************************************************************/
   .header {
   overflow: hidden;
-   background-image: url("../img/1.png");}
+  background-image: url("../img/1.png");
+  background-size: 106px 18px; }
 
   .navigation {
     float: left; }
