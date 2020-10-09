@@ -14,7 +14,8 @@
 
   p, ul, ol, dl {
     font-size: 100%;
-    line-height: 32px; }
+    line-height: 32px;
+    color: #FFF; }
 
   img {
     display: block;
@@ -98,7 +99,8 @@
 
   .page-title__text {
     font-weight: 700;
-    font-size: 150%; }
+    font-size: 150%;
+    color: #FFF; }
 
   .page-title__subtitle {
     font-weight: 400;
