@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 你好，老板
+title: 你好，老板。
 subtitle: 我是Chef
 sitemap:
   priority: 0.9
