@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 我的博客
-subtitle: 精选评论
+subtitle: 新手上路
 ---
 
 <div>
