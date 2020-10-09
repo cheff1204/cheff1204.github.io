@@ -115,13 +115,13 @@
 
   .post-teaser__title {
     font-size: 100%;
-    color: #828282; }
+    color: #fff; }
 
   .post-teaser__date {
     font-size: 100%;
     float: right;
     vertical-align: middle;
-    color: #828282; }
+    color: #fff; }
 
   .post-teaser__month {
     width: 100%;
