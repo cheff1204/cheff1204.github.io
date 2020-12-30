@@ -2,7 +2,7 @@
 layout: page
 title:  "javaScript基础&语法"
 subtitle: "菜鸟上路"
-date:   2020-012-28 21:21:21 +0530
+date:   2020-12-28 21:21:21 +0530
 categories: ["语言语法与常用模块"]
 ---
 
