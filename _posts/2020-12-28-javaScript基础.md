@@ -6,7 +6,7 @@ date:   2020-012-28 21:21:21 +0530
 categories: ["语言语法与常用模块"]
 ---
 
-#JavaScript 基础
+# JavaScript 基础
 
 > js是什么？
 
@@ -65,3 +65,40 @@ categories: ["语言语法与常用模块"]
 <script src="main.js"></script>
 
 ```
+
+#### js中的数组
+
+- JavaScript中没有多维数组概念
+	-JavaScript 变量可以是对象。数组是特殊类型的对象。可以在相同数组中存放不同类型的变量。
+	- 可以在数组保存对象。您可以在数组中保存函数。你甚至可以在数组中保存数组：
+		- myArray[0] = Date.now;
+		- myArray[1] = myFunction;
+		- myArray[2] = myCars;
+
+### JS逻辑
+
+- 使用Boolean()函数来确定表达式或变量是否为真；
+- 所有不具有"真实"值的即为False
+	- 如：0，-0，""(空值)，undefined，null，Nan
+	- 比较两个 JavaScript 对象将始终返回 false。
+
+```js
+var x = 0; //-0，undefined，null，Nan
+Blllean(x);
+```
+
+> 注意：不要创建布尔对象，会拖慢执行速度，（但是可以使用new定义对象。
+
+
+### AJAx
+
+> 无刷新更新页面
+
+- Ajax 工作原理
+	- 网页中发生一个事件（页面加载、按钮点击）
+    - 由 JavaScript 创建 XMLHttpRequest 对象
+    - XMLHttpRequest 对象向 web 服务器发送请求
+    - 服务器处理该请求
+    - 服务器将响应发送回网页
+    - 由 JavaScript 读取响应
+    - 由 JavaScript 执行正确的动作（比如更新页面）
