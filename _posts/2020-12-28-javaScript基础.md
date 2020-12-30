@@ -6,15 +6,15 @@ date:   2020-012-28 21:21:21 +0530
 categories: ["语言语法与常用模块"]
 ---
 
-# JavaScript 基础
+## JavaScript 基础
 
 > js是什么？
 
 - 解释型或即时编译型的编程语言(代码不进行预编译)
-	- 解释型语言：
+	- 解释型语言:
 		- 机器运行时逐行运行，每运行一次执行一次。
 		- 如Java、JavaScript、VBScript、Perl、Python、Ruby、MATLAB。
-	- 编译型语言：
+	- 编译型语言:
 		- 编译型语言写的程序执行之前，需要一个专门的编译过程，把程序编译成为机器语言的文件。
 		- 如C++，JAVA
 - 脚本语言
@@ -30,11 +30,11 @@ categories: ["语言语法与常用模块"]
 
 ## BOM 浏览器对象模型
 
-- 含义：
+- 含义:
 
 ## DOM 文档对象模型
 
-- 含义：window中的对象，来描述文档对象的模型；DOM可以把HTML看做是文档树，通过DOM提供的API可以对树上的节点进行操作
+- 含义:window中的对象，来描述文档对象的模型；DOM可以把HTML看做是文档树，通过DOM提供的API可以对树上的节点进行操作
 
 - 操作DOM
 	- 对DOM节点的增删改查。
@@ -46,20 +46,20 @@ categories: ["语言语法与常用模块"]
 
 ### js基础语法
 
-- 写在行内
+- 写在行内:
 
 ```html
 <input type="button" value="按钮" onclick="alert('Hello World')" />
 ```
 
-- 写在标签里
+- 写在标签里:
 
 ```html
 <head><script>alert('Hello World!');</script></head>
 
 ```
 
-- 外部文件引入
+- 外部文件引入:
 
 ```html
 <script src="main.js"></script>
@@ -94,7 +94,7 @@ Blllean(x);
 
 > 无刷新更新页面
 
-- Ajax 工作原理
+- Ajax 工作原理:
 	- 网页中发生一个事件（页面加载、按钮点击）
     - 由 JavaScript 创建 XMLHttpRequest 对象
     - XMLHttpRequest 对象向 web 服务器发送请求
